@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" version="1.1">
+    <rect x="0" y="0" width="60" height="60" fill="#f0d9b5"/>
+    <rect x="120" y="0" width="60" height="60" fill="#f0d9b5"/>
+    <!-- Agrega más rectángulos aquí para el resto de los cuadrados del tablero -->
+</svg>
